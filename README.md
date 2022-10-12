@@ -1,0 +1,1 @@
+# todayscoop_news_application
